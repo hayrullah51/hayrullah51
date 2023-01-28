@@ -42,7 +42,14 @@ Let's test everything...</p>
           height="40"
         />
       </a>
-        
+         <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+        <img
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/220px-Selenium_Logo.png"
+          alt="selenium"
+          width="40"
+          height="40"
+        />
+      </a>
 
 
 
