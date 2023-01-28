@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<h2 align="center">🔥 Software Test Engineer 🔥</h2>
+<h2 align="center">⚡ Software Test Engineer ⚡</h2>
 
 <p align="justify">As a Software Test Engineer, I have been doing manual
 and automation for more than a year. I am very pleased to be
