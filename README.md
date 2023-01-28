@@ -15,12 +15,9 @@ Let's test everything...</p>
 - 🔭 I’m currently working on Patika project.
 - 🌱 I’m currently learning Cypress and Appium.
 - 📝 I regularly write articles on https://medium.com/@h.dede515151
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about <b>Java, Javascript, Selenium, Cucumber/BDD, TestNG, Postman, SQL, Jmeter, Appium</b>
 - 📫 How to reach me: h.dede515151@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <p>&nbsp;</p>
 
