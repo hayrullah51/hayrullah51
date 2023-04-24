@@ -12,7 +12,7 @@ in the world of Software Testing.
 Let's test everything...</p>
 
 
-- 🔭 I’m currently working on Patika project.
+- 🔭 I’m currently working at Crea inc.
 - 🌱 I’m currently learning Cypress and Appium.
 - 📝 I regularly write articles on https://medium.com/@h.dede515151
 - 💬 Ask me about <b>Java, Javascript, Selenium, Cucumber/BDD, TestNG, Postman, SQL, Jmeter, Appium</b>
